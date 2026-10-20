@@ -1,2 +1,2 @@
-# CODSOFT_TASKNO
-A collection of beginner-friendly C++ console projects demonstrating fundamental programming concepts such as loops, conditionals, functions, arrays, structures, vectors, and input handling.
+A collection of beginner-friendly C++ console projects demonstrating fundamental programming concepts such as loops, conditionals, functions, arrays, structures, vectors, and input handling. Task_1: A simple C++ number guessing game where the player tries to guess a randomly generated number between 1 and 100 with hints and attempt tracking. Task_2: A basic C++ calculator that performs addition, subtraction, multiplication, and division with division-by-zero handling. Task_3: A two-player C++ Tic-Tac-Toe game featuring a 3×3 board, move validation, win/draw detection, and replay functionality. Task_4: A console-based C++ To-Do List Manager that allows users to add, view, complete, and remove tasks with input validation.
+
